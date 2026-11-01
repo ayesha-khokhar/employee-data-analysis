@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Load your data
-data = pd.read_csv("E:/DataScience_practice/data/employee_dataset.csv")  # Update path
+data = pd.read_csv("employee_dataset.csv") 
 st.title("Your Data Analysis App")
 st.write("Explore your dataset")
 st.dataframe(data)
