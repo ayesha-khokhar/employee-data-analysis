@@ -1,0 +1,51 @@
+EmployeeID,name,salary,Dept,age,experience,status,performance,city
+EMP1001,Ali Khan,182000,IT,53,12,Not Active,Excellent,Peshawar
+EMP1002,Ayesha Ahmed,132500,HR,35,9,Active,Good,Karachi
+EMP1003,Usman Malik,131500,Finance,27,5,Active,Excellent,Quetta
+EMP1004,Fatima Zahra,63500,Marketing,51,4,Active,Outstanding,Multan
+EMP1005,Bilal Raza,142000,Operations,32,8,Active,Below Average,Quetta
+EMP1006,Sana Tariq,197500,Sales,41,4,Active,Good,Sukkur
+EMP1007,Hassan Javed,95500,Admin,31,5,Not Active,Good,Faisalabad
+EMP1008,Zainab Noor,107000,IT,34,2,Active,Good,Quetta
+EMP1009,Ahmed Shah,107000,HR,41,3,Active,Outstanding,Sukkur
+EMP1010,Maria Siddiqui,114500,Finance,42,12,Active,Average,Sukkur
+EMP1011,Omar Aslam,87000,Marketing,44,10,Not Active,Excellent,Lahore
+EMP1012,Hina Qureshi,147500,Operations,52,4,Active,Average,Kunri
+EMP1013,Faisal Butt,119500,Sales,27,1,Active,Excellent,Kunri
+EMP1014,Nida Ali,188500,Admin,29,6,Active,Good,Islamabad
+EMP1015,Imran Hussain,120000,IT,25,3,Active,Good,Kunri
+EMP1016,Rabia Mehmood,82000,HR,51,7,Active,Average,Faisalabad
+EMP1017,Saad Iqbal,84500,Finance,29,5,Active,Average,Peshawar
+EMP1018,Laiba Akhtar,157000,Marketing,40,14,Active,Average,Lahore
+EMP1019,Tariq Hayat,179500,Operations,45,5,Active,Good,Karachi
+EMP1020,Sadia Afridi,152000,Sales,51,13,Active,Outstanding,Peshawar
+EMP1021,Kamran Fatima,147500,Admin,25,4,Active,Outstanding,Islamabad
+EMP1022,Mehwish Naz,179000,IT,36,13,Active,Excellent,Sukkur
+EMP1023,Shahid Umar,135500,HR,42,11,Active,Excellent,Islamabad
+EMP1024,Urooj Ilyas,175000,Finance,45,7,Active,Excellent,Lahore
+EMP1025,Junaid Ahmad,75500,Marketing,23,2,Active,Average,Quetta
+EMP1026,Kiran Sheikh,79500,Operations,37,10,Active,Excellent,Peshawar
+EMP1027,Asad Ansari,162000,Sales,42,10,Not Active,Below Average,Karachi
+EMP1028,Nimra Chaudhry,53500,Admin,51,1,Active,Outstanding,Sukkur
+EMP1029,Waqas Mughal,191500,IT,57,10,Active,Good,Lahore
+EMP1030,Amna Rajput,121000,HR,44,6,Not Active,Excellent,Kunri
+EMP1031,Hamza Khan,54500,Finance,57,11,Not Active,Good,Lahore
+EMP1032,Iqra Ahmed,190000,Marketing,53,6,Active,Good,Multan
+EMP1033,Farhan Malik,144500,Operations,46,15,Not Active,Good,Faisalabad
+EMP1034,Noor Zahra,62000,Sales,39,3,Active,Below Average,Islamabad
+EMP1035,Yasir Raza,103500,Admin,34,10,Active,Excellent,Islamabad
+EMP1036,Bushra Tariq,192500,Admin,27,4,Active,Outstanding,Lahore
+EMP1037,Rehan Javed,180500,HR,42,3,Active,Good,Karachi
+EMP1038,Maham Noor,193500,Sales,49,2,Active,Good,Peshawar
+EMP1039,Danish Shah,56500,Sales,51,7,Active,Average,Lahore
+EMP1040,Alina Siddiqui,162000,Sales,56,8,Active,Excellent,Kunri
+EMP1041,Fahad Aslam,110000,Finance,36,1,Active,Average,Sukkur
+EMP1042,Zoya Qureshi,150500,Admin,52,15,Active,Average,Karachi
+EMP1043,Muzamil Butt,158000,Admin,54,4,Active,Good,Islamabad
+EMP1044,Anum Ali,51500,HR,22,1,Not Active,Average,Faisalabad
+EMP1045,Zubair Hussain,78000,Sales,29,1,Not Active,Average,Lahore
+EMP1046,Saba Mehmood,196500,HR,47,10,Active,Good,Lahore
+EMP1047,Rizwan Iqbal,135000,Finance,49,14,Active,Good,Karachi
+EMP1048,Hafsa Akhtar,189000,HR,40,3,Not Active,Good,Faisalabad
+EMP1049,Arslan Hayat,121500,Marketing,42,2,Active,Average,Multan
+EMP1050,Kashif Afridi,86000,HR,32,3,Active,Excellent,Kunri
